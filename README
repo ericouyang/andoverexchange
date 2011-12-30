@@ -1,0 +1,7 @@
+*****************************
+AndoverExchange Development
+Eric Ouyang
+*****************************
+Built on top of Fuel 1.1, Twitter Bootstrap, and Sentry (a FuelPHP auth package)
+
+Very early stage. All db configurations are located as FuelPHP migrations

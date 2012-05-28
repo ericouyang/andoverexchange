@@ -39,7 +39,7 @@ class Controller_User extends Controller_Base
 	public function action_logout()
 	{
 		Sentry::logout();
-		Response::redirect('_root_');
+		Response::redirect('/');
 	}
 
 	public function action_register()
